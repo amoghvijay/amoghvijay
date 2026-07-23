@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="100%">
+  <defs>
+    <style>
+      .card { fill: #0D1117; stroke: #58A6FF; stroke-width: 2; }
+      .txt { font-family: 'Fira Code', monospace; font-size: 13px; fill: #C9D1D9; }
+      .title { font-family: 'Fira Code', monospace; font-size: 14px; fill: #58A6FF; font-weight: bold; }
+    </style>
+  </defs>
+  <rect x="10" y="10" width="400" height="280" rx="12" class="card"/>
+  <text x="30" y="45" class="title">CineBot — Chat</text>
+  <rect x="30" y="60" width="220" height="30" rx="14" fill="#21262D"/>
+  <text x="42" y="80" class="txt">Suggest a feel-good movie</text>
+  <rect x="150" y="100" width="240" height="30" rx="14" fill="#1F6FEB"/>
+  <text x="165" y="120" class="txt" fill="#ffffff">4 picks incoming 🎬</text>
+
+  <rect x="30" y="150" width="80" height="110" rx="6" fill="#21262D" stroke="#58A6FF"/>
+  <rect x="120" y="150" width="80" height="110" rx="6" fill="#21262D" stroke="#58A6FF"/>
+  <rect x="210" y="150" width="80" height="110" rx="6" fill="#21262D" stroke="#58A6FF"/>
+  <rect x="300" y="150" width="80" height="110" rx="6" fill="#21262D" stroke="#58A6FF"/>
+
+  <circle cx="70" cy="185" r="18" fill="#30363D"/>
+  <circle cx="160" cy="185" r="18" fill="#30363D"/>
+  <circle cx="250" cy="185" r="18" fill="#30363D"/>
+  <circle cx="340" cy="185" r="18" fill="#30363D"/>
+
+  <text x="45" y="230" class="txt" font-size="10">★ 8.4</text>
+  <text x="135" y="230" class="txt" font-size="10">★ 7.9</text>
+  <text x="225" y="230" class="txt" font-size="10">★ 8.1</text>
+  <text x="315" y="230" class="txt" font-size="10">★ 9.0</text>
+
+  <text x="30" y="275" class="txt" fill="#4ade80">Gemini + TMDB · live</text>
+</svg>

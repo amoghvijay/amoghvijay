@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="100%">
+  <defs>
+    <style>
+      .card { fill: #0D1117; stroke: #4ade80; stroke-width: 2; }
+      .txt { font-family: 'Fira Code', monospace; font-size: 13px; fill: #C9D1D9; }
+      .title { font-family: 'Fira Code', monospace; font-size: 14px; fill: #4ade80; font-weight: bold; }
+    </style>
+  </defs>
+  <rect x="10" y="10" width="400" height="280" rx="12" class="card"/>
+  <text x="30" y="45" class="title">NutriMate — Agent</text>
+
+  <rect x="30" y="60" width="360" height="30" rx="14" fill="#21262D"/>
+  <text x="42" y="80" class="txt">"I had 2 eggs and toast"</text>
+
+  <rect x="30" y="100" width="360" height="30" rx="14" fill="#166534"/>
+  <text x="42" y="120" class="txt" fill="#ffffff">Logged: ~220 kcal, 14g protein ✅</text>
+
+  <!-- bar chart -->
+  <rect x="40" y="230" width="30" height="30" fill="#4ade80"/>
+  <rect x="90" y="200" width="30" height="60" fill="#22c55e"/>
+  <rect x="140" y="170" width="30" height="90" fill="#16a34a"/>
+  <rect x="190" y="210" width="30" height="50" fill="#4ade80"/>
+  <rect x="240" y="150" width="30" height="110" fill="#22c55e"/>
+  <line x1="30" y1="260" x2="290" y2="260" stroke="#30363D" stroke-width="2"/>
+  <text x="300" y="220" class="txt" font-size="11">Macros</text>
+
+  <text x="30" y="280" class="txt" fill="#4ade80">Claude tool-calling · live</text>
+</svg>
