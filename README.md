@@ -172,7 +172,7 @@ graph TD
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amoghvijay&theme=tokyonight&no-bg=true&margin-w=15&no-border=true)](https://github.com/amoghvijay)
 
-[![Amogh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amoghvijay&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/amoghvijay) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghvijay&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/amoghvijay)
+[![Amogh's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=amoghvijay&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/amoghvijay) [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amoghvijay&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/amoghvijay)
 
 [![Amogh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amoghvijay&theme=tokyonight&hide_border=true)](https://github.com/amoghvijay)
 
